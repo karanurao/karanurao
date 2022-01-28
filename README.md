@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @karanurao
-- 👀 I’m interested in tech stuff and digital growth.
-- 🌱 I’m currently nurturing myself on programming
-- 💞️ I’m looking to collaborate on web applications.
-- 📫 How to reach me: Ping me on insta @karan_urao for quick reach.
+![cover_photo](https://github.com/karanurao/karanurao/blob/main/cover.png)
+
+<a href="https://instagram.com/karan_urao"><img src="https://github.com/karanurao/karanurao/blob/main/assets/instagram.svg" align="left" height="35" ></a>
+<a href="https://twitter.com/karanurao"><img src="https://github.com/karanurao/karanurao/blob/main/assets/twitter.svg" align="left" height="35" ></a>
+<a href="https://www.linkedin.com/in/karanurao/"><img src="https://github.com/karanurao/karanurao/blob/main/assets/linkedin.svg" align="left" height="35" ></a>
+<br> <hr>
+
+Welcome! Karan here and this is my official github page. I am learing and will always be learning and this githube is one part of it. Lets cherish all the internet things.
+
+• Interested in tech stuff and digital growth.<br>
+• Currently focusing on web applications (React).<br>
+• Doing freelance stuff around, digital marketing and servies.
+
+Feel free to connect with me if there is anything you want to talk about :)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=karanurao&count_private=true&theme=tokyonight&showicons=true)]()
+
+<!---[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karanurao&langs_count=5&theme=tokyonight)]()-->
 
 <!---
 karanurao/karanurao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
