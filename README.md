@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/karanurao/"><img src="https://github.com/karanurao/karanurao/blob/main/assets/linkedin.svg" align="left" height="35" ></a>
 <br> <hr>
 
-Welcome! Karan here and this is my official github page. I am learing and will always be learning and this githube is one part of it. Lets cherish all the internet things.
+Welcome! Karan here and this is my official github page. I am learing and will always be learning and this github is one part of it. Lets cherish all the internet things.
 
 • Interested in tech stuff and digital growth.<br>
 • Currently focusing on web applications (React).<br>
