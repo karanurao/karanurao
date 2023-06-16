@@ -1,6 +1,6 @@
 ![cover_photo](https://github.com/karanurao/karanurao/blob/main/cover.png)
 
-<a href="https://instagram.com/karan_urao"><img src="https://github.com/karanurao/karanurao/blob/main/assets/instagram.svg" align="left" height="35" ></a>
+<a href="https://instagram.com/mr.urao"><img src="https://github.com/karanurao/karanurao/blob/main/assets/instagram.svg" align="left" height="35" ></a>
 <a href="https://twitter.com/karanurao"><img src="https://github.com/karanurao/karanurao/blob/main/assets/twitter.svg" align="left" height="35" ></a>
 <a href="https://www.linkedin.com/in/karanurao/"><img src="https://github.com/karanurao/karanurao/blob/main/assets/linkedin.svg" align="left" height="35" ></a>
 <br> <hr>
