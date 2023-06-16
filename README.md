@@ -8,8 +8,7 @@
 Welcome! Karan here and this is my official github page. I am learing and will always be learning and this github is one part of it. Lets cherish all the internet things.
 
 • Interested in tech stuff and digital growth.<br>
-• Currently focusing on web applications (React).<br>
-• Doing freelance stuff around, digital marketing and servies.
+• Currently focusing on web applications.<br>
 
 Feel free to connect with me if there is anything you want to talk about :)
 
